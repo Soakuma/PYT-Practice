@@ -28,7 +28,7 @@ import tkinter.simpledialog
 mainFrame = Tk()
  
 result = tkinter.simpledialog.askinteger( "제목", "나이를 입력하세요")
-result = tkinter.simpledialog.askinteger( "제목", "qlqjs을 입력하세요")
+result = tkinter.simpledialog.askinteger( "제목", "비번을 입력하세요")
 print( result )
  
 mainFrame.mainloop()
